@@ -10,7 +10,7 @@ p {
         border: 1px solid black;
         padding: 15px;
         border-radius: 5px;
-        height: 100px;
+        min-height: 100px;
           serif;
         text-align: center;
       }
